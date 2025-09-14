@@ -1,0 +1,25 @@
+## absolute values
+
+select abs(-33) as abs_value;
+
+## ceil fun
+select ceil(3.3) as ceil_no;
+
+## floor fun
+
+select floor(4.2);
+select floor(3.9);
+
+## round fun
+select round(2.2365562685,3);
+
+## mod fun
+select mod(32,3);
+
+##power fun
+select power(2,2);
+
+## exponential fun
+select exp(2);
+
+
